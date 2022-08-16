@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582459529538",
+    "project_id": "sample-b72a4",
+    "storage_bucket": "sample-b72a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582459529538:android:5a63c25fb64f4fbdc110db",
+        "android_client_info": {
+          "package_name": "com.example.nayakoseli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582459529538-8uim7sed51srjq9ncs7nsfb8aoqp4m2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwgPs1l9H1xikYFKOiSCC9Uxjg5PVf_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582459529538-8uim7sed51srjq9ncs7nsfb8aoqp4m2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
